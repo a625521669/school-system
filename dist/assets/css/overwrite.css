@@ -1,0 +1,21 @@
+.nav-list>li .submenu>li>a{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.nav-list>li .submenu>li a>[class*="icon-"]:first-child{
+    top: 6px;
+}
+
+.nav-list>li>.submenu>li:before{
+    top: 12px;
+}
+
+.nav-list>li>a{
+    height: 25px;
+    line-height: 25px;
+}
+
+.nav-list>li a>.arrow{
+    top: 6px;
+}
